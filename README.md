@@ -1,8 +1,8 @@
 # Code Refactor Starter Code
 
 ## Description 
-This assignment was to refactor the html and css for the Horiseon company webpage. Both codes needed serious semantic and strutural reorganization, as well as the addition of accessibility features in order to comply with standards. 
-[Horiseon](https://laynewegenast.github.io/htmlhomework/)
+This assignment was to refactor the html and css for the Horiseon company webpage. Both files needed serious semantic and strutural reorganization, as well as the addition of accessibility features in order to comply with standards. 
+[View Horiseon page here.](https://laynewegenast.github.io/htmlhomework/)
 
 ## Issues
 
