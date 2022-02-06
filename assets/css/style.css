@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*begin header and nav element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,7 +35,7 @@ header nav ul {
 }
 
 header nav ul li {
-    display: inline-block;
+    display: inline-block; 
     margin-left: 25px;
 }
 
@@ -42,7 +43,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*end header and nav */
 
+/*main page image*/
 .jumbotron {
     height: 800px;
     width: 100%;
@@ -52,6 +55,7 @@ a {
     background-position: center;
 }
 
+/*Begin style Horiseon company services*/
 .abilities {
     width: 75%;
     display: inline-block;
@@ -84,7 +88,9 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end services style*/
 
+/*Begin benefits section style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,7 +117,9 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end benefits section*/
 
+/*footer element*/
 footer {
     padding: 30px;
     clear: both;
